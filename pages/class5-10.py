@@ -1,4 +1,3 @@
-from turtle import back
 import streamlit as st
 import openai
 import base64
